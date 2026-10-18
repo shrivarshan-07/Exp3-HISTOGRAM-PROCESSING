@@ -102,7 +102,7 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ### Equalized Histogram
 <img width="845" height="548" alt="image" src="https://github.com/user-attachments/assets/c37fbf0f-a3b0-4c80-b36c-ccba7f02dd8d" />
 
-### Final Output of Original Image and Equalized 
+### Final Output of Original Image and Equalized Image
 <img width="1397" height="390" alt="image" src="https://github.com/user-attachments/assets/a9d8ba05-ec07-4198-94cf-752ab29c1657" />
 
 
